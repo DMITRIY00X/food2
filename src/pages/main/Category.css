@@ -1,0 +1,12 @@
+
+.btn{
+    background: #ff4400;
+    color: #fff;
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
+    padding: 14px 30px 12px;
+    border-radius: 15px;
+    border: 0;
+    font-weight: bold;
+}
